@@ -1,3 +1,3 @@
 #Stuff
-## WOrdpress on GCP
+## Wordpress on GCP
 1. https://github.com/GoogleCloudPlatform/php-docs-samples/tree/master/appengine/php72/wordpress
